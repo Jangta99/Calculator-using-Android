@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="AddBtn">+</string>
+    <string name="SubBtn">-</string>
+    <string name="DivBtn">/</string>
+    <string name="MulBtn">X</string>
+    <string name="ModBtn">%</string>
+    <string name="PowBtn">n1^n2</string>
+    <string name="CalcText">Calculator</string>
+    <string name="firstNum">Enter the 1st number</string>
+    <string name="secondNum">Enter the 2nd number</string>
+    <string name="resultText">Result</string>
+    <string name="ClrBtn">Clear</string>
+
+</resources>
